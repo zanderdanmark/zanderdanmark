@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sander
-- 👨‍💻 Currently Head of Marketing at Climaider
+- 👨‍💻 Head of Marketing at Climaider
 - 🌱 I’m currently learning JavaScript, React and TypeScript
 - 📫 Reach me at sander@climaider.com
 
