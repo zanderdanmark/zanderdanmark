@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @zanderdanmark
-- 👀 I’m interested in Danmark
-- 🌱 I’m currently learning ond kode
-- 💞️ I’m looking to collaborate on ond kode
-- 📫 How to reach me zanderdanmark@ofir.dk
+- 👋 Hi, I’m Sander
+- 👨‍💻 Currently Head of Marketing at Climaider
+- 🌱 I’m currently learning JavaScript, React and TypeScript
+- 📫 Reach me at sander@climaider.com
 
 <!---
 zanderdanmark/zanderdanmark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
